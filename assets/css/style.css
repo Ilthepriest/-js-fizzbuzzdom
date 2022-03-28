@@ -43,6 +43,8 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .fizz{
